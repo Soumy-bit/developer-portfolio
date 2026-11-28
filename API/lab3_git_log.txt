@@ -1,0 +1,78 @@
+commit 30665bbedb47c6f9930fe08902b9b5c91cd8ec1e (HEAD -> main)
+Author: soumy <hauntblood43@gmail.com>
+Date:   Tue Nov 10 12:01:54 2026 +0000
+
+    test: update main.py
+
+commit 08a4713c7a71d69fc1edd60208496232e48a39d0
+Author: soumy <hauntblood43@gmail.com>
+Date:   Tue Nov 10 11:24:40 2026 +0000
+
+    Testing Git error
+
+commit b9f182f29ee339b1120d7b8bded4569de3806baf (origin/main, origin/HEAD)
+Merge: 7fd8a19 36f5f71
+Author: soumy <hauntblood43@gmail.com>
+Date:   Tue Nov 10 11:06:50 2026 +0000
+
+    merge: resolve conflict in main.py
+
+commit 7fd8a199bb5ae2a96cc1e30bf4a3892b14cdbff4
+Author: soumy <hauntblood43@gmail.com>
+Date:   Tue Nov 10 11:00:56 2026 +0000
+
+    feat: add main-branch output
+
+commit 36f5f715aeae840fe43481e878630de72af31a59 (feature-branch)
+Author: soumy <hauntblood43@gmail.com>
+Date:   Tue Nov 10 11:00:25 2026 +0000
+
+    feat: add feature-branch output
+
+commit 440fd6278e9c568f7ec1b1a2768f9f1d89b04f61
+Author: soumy <hauntblood43@gmail.com>
+Date:   Tue Nov 10 10:40:55 2026 +0000
+
+    data: add sample API response
+
+commit e8ab5fdca04625240e26c8441cb849a681fdce3f
+Author: soumy <hauntblood43@gmail.com>
+Date:   Tue Nov 10 09:40:44 2026 +0000
+
+    docs: create comprehensive README and Markdown guide
+
+commit c3a1ed02c9e8655f085b1755338b240443f359e0
+Author: Soumy-bit <hauntblood43@gmail.com>
+Date:   Tue Nov 10 14:56:52 2026 +0530
+
+    Update README.md
+
+commit 4896df23baad900aafc873a6b05ac71bae87c4b2
+Author: soumy <hauntblood43@gmail.com>
+Date:   Tue Nov 10 09:17:51 2026 +0000
+
+    docs: add changelog file
+
+commit e43efac61e2c3aabbed514f4ee18ade2c91fd4e9
+Author: soumy <hauntblood43@gmail.com>
+Date:   Tue Nov 10 08:18:57 2026 +0000
+
+    docs: add description section to README
+
+commit 79ddcdcf4d07a3a4a3d95bcdf5b48262c56d226b
+Author: soumy <hauntblood43@gmail.com>
+Date:   Tue Nov 10 08:18:47 2026 +0000
+
+    fix: update output message in main.py
+
+commit efb84d12b8f5f570a700d9254309e09a3d5b17f8
+Author: soumy <hauntblood43@gmail.com>
+Date:   Tue Nov 10 08:16:49 2026 +0000
+
+    fix: update output message in main.py
+
+commit 582471e3f7261f06c49f1a237634b4f39253eea1
+Author: soumy <hauntblood43@gmail.com>
+Date:   Tue Nov 10 08:11:10 2026 +0000
+
+    feat: add initial project files
