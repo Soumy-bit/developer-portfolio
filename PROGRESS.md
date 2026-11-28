@@ -1,33 +1,33 @@
 
 # Coding Platform Progress Tracker
 
-# Updated: [Today's Date]
+# Updated: 28 November 2026
 
 ---
 
 ## HackerRank
 
-- Profile URL : https://www.hackerrank.com/profile/[your-username]
+- Profile URL : To be added
 
 - Problems solved : 3 (Say Hello, Python If-Else, Arithmetic Operators)
 
 - Skill test taken : Python (Basic)
 
-- Certificate : [Earned / Pending] | [Certificate URL if earned]
+- Certificate : Earned 26 November 2026 (ID: 200E9559EB2C) | [View certificate](./Portfolio/HackerRank_Python_Basic.pdf)
 
 ## LeetCode
 
-- Profile URL : https://leetcode.com/u/[your-username]
+- Profile URL : To be added
 
 - Easy attempted : 2 (Two Sum, Palindrome Number)
 
-- Easy solved : [update after attempting]
+- Easy solved : Not yet recorded
 
 - Medium attempted : 0
 
 ## freeCodeCamp
 
-- Profile URL : https://www.freecodecamp.org/[your-username]
+- Profile URL : To be added
 
 - Current track : Responsive Web Design
 
@@ -37,7 +37,7 @@
 
 ## Weekly Goals (update every Monday)
 
-Week of [date]:
+Week of 30 November 2026:
 
 [ ] 3 HackerRank Python problems
 

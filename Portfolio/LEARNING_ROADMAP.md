@@ -1,4 +1,4 @@
-# K.R. Mangalam University | B.Tech CSE | Six-Semester Learning Roadmap
+# K.R. Mangalam University | B.Tech CSE (AI/ML) | Six-Semester Learning Roadmap
 
 ## 1. Starting Point Assessment (Semester 1)
 *Scale: 1 = No knowledge | 2 = Beginner | 3 = Intermediate | 4 = Advanced*
@@ -15,7 +15,7 @@
 * **Chosen Specialisation Track:** **Track A — Software / Full-Stack Development**
 * **Target Mentors:** 
   * **Faculty Mentor:** **Prof. Hemant Billa** (School of Engineering & Technology, KRMU) — for academic guidance, research direction, and capstone project mentorship.
-  * **Peer / Senior Mentor:** **Soumy Sundram** (Senior Student, B.Tech CSE) — for guidance on coding clubs, hackathons, project tech stacks, and internship preparation.
+  * **Peer / Senior Mentor:** To be identified — for guidance on coding clubs, hackathons, project tech stacks, and internship preparation.
 
 ---
 
