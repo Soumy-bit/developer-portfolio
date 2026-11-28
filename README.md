@@ -1,6 +1,6 @@
 # Soumy Sundram — Developer Portfolio
 
-> B.Tech CSE (AI/ML) Student | K.R. Mangalam University, Gurugram | Batch 2026–30
+> B.Tech CSE (AI/ML) Student | K.R. Mangalam University, Gurugram | Batch 2026–30 | Section -H | ROLL NO- 2601730438
 
 Semester capstone: a beginner developer ecosystem portfolio covering four labs.
 
