@@ -10,11 +10,18 @@ Semester capstone: a beginner developer ecosystem portfolio covering four labs.
 
 | Lab | Folder | Contents | Status |
 |-----|--------|----------|--------|
-| Q1 | [Linux/](./Linux/) | Linux lab evidence | Pending |
-| Q2 | [ShellScripts/](./ShellScripts/) | Shell scripts | Pending |
-| Q3 | [API/](./API/) | Sample API response | Partly added |
+| Q1 | [Linux/](./Linux/) | System information script | Outputs pending |
+| Q2 | [ShellScripts/](./ShellScripts/) | Three Bash scripts | Added |
+| Q3 | [API/](./API/) | Python script, API response, Git log | Added |
 | Q4 | [Portfolio/](./Portfolio/) | Resume, roadmap, certificate; LinkedIn screenshot pending | Partly added |
 | All | [Screenshots/](./Screenshots/) | Lab screenshots | Pending |
+
+---
+
+## Profiles
+
+- GitHub: [github.com/Soumy-bit](https://github.com/Soumy-bit)
+- LinkedIn: [linkedin.com/in/soumy-sundram-90bb20434](https://linkedin.com/in/soumy-sundram-90bb20434)
 
 ---
 
