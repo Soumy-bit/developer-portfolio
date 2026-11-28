@@ -1,15 +1,33 @@
 # Soumy Sundram — Developer Portfolio
 
-> B.Tech CSE Student | K.R. Mangalam University, Gurugram | Batch 2024-28
+> B.Tech CSE (AI/ML) Student | K.R. Mangalam University, Gurugram | Batch 2026–30
+
+Semester capstone: a beginner developer ecosystem portfolio covering four labs.
+
+---
+
+## Capstone Contents
+
+| Lab | Folder | Contents | Status |
+|-----|--------|----------|--------|
+| Q1 | [Linux/](./Linux/) | Linux lab evidence | Pending |
+| Q2 | [ShellScripts/](./ShellScripts/) | Shell scripts | Pending |
+| Q3 | [API/](./API/) | Sample API response | Partly added |
+| Q4 | [Portfolio/](./Portfolio/) | Resume, roadmap, certificate; LinkedIn screenshot pending | Partly added |
+| All | [Screenshots/](./Screenshots/) | Lab screenshots | Pending |
 
 ---
 
 ## Repository Index
 
-| Repository | Description | Tech Stack | Status |
-|------------|-------------|------------|--------|
-| [cse103-lab-LAB3](https://github.com/Soumy-bit/cse103-lab-LAB3) | CSE103 lab — Git, APIs, Shell scripting | Git, Python, Bash | Active |
-| [developer-portfolio](https://github.com/Soumy-bit/developer-portfolio) | This portfolio index | Markdown | Active |
+| Repository | Description | Tech Stack |
+|------------|-------------|------------|
+| [developer-portfolio](https://github.com/Soumy-bit/developer-portfolio) | Capstone: lab evidence and portfolio | Markdown, HTML, CSS |
+| [cse103-lab-LAB3](https://github.com/Soumy-bit/cse103-lab-LAB3) | CSE103 lab: Git workflows and API practice | Git, Python |
+| [Medimate](https://github.com/Soumy-bit/Medimate) | Medicine management web app | Node.js, SQLite, JavaScript |
+| [PORTFOLIO](https://github.com/Soumy-bit/PORTFOLIO) | Personal portfolio page | HTML, Markdown |
+| [WEB-CAPSTONE-PROJECT](https://github.com/Soumy-bit/WEB-CAPSTONE-PROJECT) | Web capstone project | HTML, CSS |
+| [Soumy-bit](https://github.com/Soumy-bit/Soumy-bit) | GitHub profile README | Markdown |
 
 ---
 
@@ -25,7 +43,7 @@ Git / GitHub [█████░░░░░] 50%
 
 ## Learning Roadmap
 
-See [LEARNING_ROADMAP.md](./LEARNING_ROADMAP.md) for my full 6-semester plan.
+See [LEARNING_ROADMAP.md](./Portfolio/LEARNING_ROADMAP.md) for my full 6-semester plan.
 
 ## Progress Tracker
 
