@@ -1,0 +1,41 @@
+$ whoami
+soumy13
+
+$ pwd
+/home/soumy13/DeveloperPortfolio/Linux
+
+$ ls -la
+total 28
+drwxr-xr-x 2 soumy13 soumy13 4096 Nov 28 12:02 .
+drwxr-xr-x 8 soumy13 soumy13 4096 Nov 28 12:02 ..
+-rw-r--r-- 1 soumy13 soumy13  363 Nov 28 12:02 README.md
+-rw-r--r-- 1 soumy13 soumy13  911 Nov 28 12:02 collect_system_info.sh
+-rw-r--r-- 1 soumy13 soumy13   73 Nov 28 12:02 command_outputs.txt
+-rw-r--r-- 1 soumy13 soumy13 5466 Nov 28 12:02 system_profile.md
+
+$ date
+Sat Nov 28 12:02:57 UTC 2026
+
+$ uptime
+ 12:02:57 up 0 min,  1 user,  load average: 0.28, 0.10, 0.03
+
+$ ps
+    PID TTY          TIME CMD
+    418 pts/0    00:00:00 bash
+    588 pts/0    00:00:00 bash
+    601 pts/0    00:00:00 ps
+
+$ id
+uid=1000(soumy13) gid=1000(soumy13) groups=1000(soumy13),4(adm),24(cdrom),27(sudo),30(dip),46(plugdev),100(users)
+
+$ which bash
+/usr/bin/bash
+
+$ bash --version
+GNU bash, version 5.3.9(1)-release (x86_64-pc-linux-gnu)
+Copyright (C) 2025 Free Software Foundation, Inc.
+License GPLv3+: GNU GPL version 3 or later <http://gnu.org/licenses/gpl.html>
+
+This is free software; you are free to change and redistribute it.
+There is NO WARRANTY, to the extent permitted by law.
+
